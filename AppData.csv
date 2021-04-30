@@ -1,0 +1,102 @@
+f_name,l_Name,gender,age,education,occupation,marital_status,app_name,op_time,duration,genre
+Maya,Wilson,Female,28,Doctoral,Student,Single,Quora,22:58:16,250,TV/Entertainment
+Jared,Baker,Male,69,Master,Artist,Married,Netflix,1:35:51,293,TV/Entertainment
+Kellan,Walker,Male,60,Bachelor,Artist,Married,Youtube,0:48:48,272,TV/Entertainment
+Eddy,Payne,Male,42,Lower secondary,unemployed,Single,Instagram,20:30:47,87,Education
+Rafael,Hill,Male,31,Bachelor,Govt Employee,Single,Instagram,14:34:19,133,TV/Entertainment
+Byron,Scott,Male,44,Upper secondary,unemployed,Married,Primevideo,12:17:56,20,Education
+Lucy,Murray,Female,31,Upper secondary,Corporate,Single,Youtube,0:31:30,190,TV/Entertainment
+Stella,Andrews,Female,68,Bachelor,unemployed,Single,Primevideo,11:07:43,210,Education
+Myra,Williams,Female,28,Master,Student,Married,Netflix,14:44:35,40,TV/Entertainment
+Eddy,Clark,Male,30,Bachelor,unemployed,Married,Primevideo,3:52:21,186,Education
+Emily,Casey,Female,47,Master,Homemaker,Married,Instagram,12:28:59,224,TV/Entertainment
+Chelsea,Barnes,Female,55,Upper secondary,Corporate,Married,Facebook,13:36:57,272,Style
+Blake,Ross,Male,60,Bachelor,Homemaker,Married,Quora,15:43:20,94,Style
+Deanna,Williams,Female,39,Lower secondary,unemployed,Single,Youtube,4:33:54,142,Education
+Haris,Barrett,Male,56,Lower secondary,Artist,Single,Quora,9:53:06,16,Art
+Daisy,Adams,Female,59,Upper secondary,unemployed,Single,Quora,11:54:03,185,Education
+Aida,Holmes,Female,64,Upper secondary,Artist,Single,Netflix,6:51:45,169,Décor
+Alford,Gray,Male,43,Upper secondary,Artist,Single,Instagram,23:08:19,38,Art
+Clark,Brooks,Male,46,Doctoral,Govt Employee,Single,Instagram,5:16:59,197,TV/Entertainment
+Ned,Hamilton,Male,34,Primary,unemployed,Single,Primevideo,18:24:17,213,Education
+Ashton,Johnson,Male,65,Doctoral,Corporate,Married,Primevideo,22:40:52,61,Style
+Thomas,Wells,Male,25,Master,Student,Single,Primevideo,13:50:24,246,Education
+Lucas,Kelley,Male,63,Doctoral,unemployed,Married,Youtube,20:14:40,254,Style
+Paige,Gibson,Female,40,Bachelor,Corporate,Married,Youtube,19:15:02,39,Art
+Sarah,Farrell,Female,22,Bachelor,Student,Married,Quora,17:19:40,128,Education
+Briony,Parker,Female,60,Upper secondary,Homemaker,Single,Facebook,10:51:17,10,Style
+Cadie,Hunt,Female,55,Bachelor,unemployed,Married,Netflix,3:31:20,175,TV/Entertainment
+Stuart,Craig,Male,46,Primary,unemployed,Married,Netflix,4:42:17,201,Style
+Kristian,Smith,Male,54,Bachelor,Corporate,Married,Quora,10:46:47,110,Education
+Carl,Scott,Male,62,Bachelor,Homemaker,Single,Primevideo,4:00:31,67,Art
+Heather,Davis,Female,64,Bachelor,Artist,Married,Netflix,19:44:36,273,Travel
+Belinda,Russell,Female,63,Bachelor,Artist,Married,Youtube,8:50:03,81,TV/Entertainment
+Sienna,Henderson,Female,60,Upper secondary,Artist,Married,Primevideo,4:56:08,225,Style
+Brianna,Taylor,Female,32,Doctoral,Govt Employee,Single,Primevideo,16:30:43,69,TV/Entertainment
+Julian,Casey,Male,22,Bachelor,Student,Married,Instagram,14:43:58,118,Education
+Oliver,Turner,Male,63,Upper secondary,Corporate,Single,Primevideo,4:32:13,31,Education
+Byron,Foster,Male,30,Doctoral,unemployed,Single,Instagram,10:08:05,95,TV/Entertainment
+Catherine,Hunt,Female,45,Upper secondary,Homemaker,Married,Instagram,23:59:21,189,TV/Entertainment
+Belinda,Parker,Female,60,Lower secondary,unemployed,Married,Primevideo,6:35:30,107,Music
+Emily,Sullivan,Female,28,Master,Student,Single,Netflix,21:27:55,146,Education
+Victor,Adams,Male,60,Lower secondary,Artist,Single,Instagram,16:02:24,275,Music
+Tyler,Harper,Male,50,Upper secondary,Corporate,Married,Instagram,16:10:46,190,Education
+Vivian,Johnston,Female,66,Master,Corporate,Married,Primevideo,4:00:50,261,Education
+Brad,Henderson,Male,40,Lower secondary,unemployed,Single,Primevideo,10:05:49,154,Art
+Arthur,Dixon,Male,63,Doctoral,Corporate,Married,Primevideo,6:26:10,33,Décor
+Agata,Warren,Female,37,Bachelor,Corporate,Single,Instagram,11:56:57,251,Style
+Anna,Dixon,Female,28,Master,Student,Married,Instagram,16:23:59,169,Education
+Lyndon,Scott,Male,24,Master,Student,Single,Youtube,5:31:36,109,Education
+Luke,Phillips,Male,52,Upper secondary,Homemaker,Single,Netflix,15:39:56,206,Style
+Amelia,Craig,Female,51,Master,Artist,Single,Primevideo,12:56:21,42,TV/Entertainment
+Alisa,Craig,Female,20,Bachelor,Student,Married,Youtube,16:12:17,120,Education
+Dominik,Higgins,Male,50,Doctoral,Corporate,Single,Netflix,15:17:39,51,TV/Entertainment
+Natalie,Armstrong,Female,57,Master,unemployed,Married,Instagram,16:56:50,204,Style
+Carina,Murphy,Female,52,Lower secondary,Govt Employee,Single,Quora,0:13:36,106,Music
+Nicholas,Jones,Male,49,Lower secondary,Artist,Married,Facebook,0:59:22,145,Art
+Maximilian,Thompson,Male,27,Master,Student,Single,Youtube,17:19:28,160,Education
+Annabella,Russell,Female,37,Master,Artist,Married,Netflix,9:24:12,228,TV/Entertainment
+Jared,Roberts,Male,42,Lower secondary,Homemaker,Single,Primevideo,2:45:51,237,Food
+Jared,Smith,Male,47,Primary,Artist,Single,Youtube,17:05:37,19,TV/Entertainment
+Maria,Kelley,Female,56,Doctoral,Artist,Married,Primevideo,18:27:23,256,Beauty
+Arthur,Baker,Male,40,Primary,Govt Employee,Single,Instagram,19:01:45,74,TV/Entertainment
+Isabella,Hunt,Female,30,Bachelor,Corporate,Single,Primevideo,0:10:11,29,TV/Entertainment
+Maximilian,Barnes,Male,20,Upper secondary,Student,Married,Primevideo,13:35:48,216,TV/Entertainment
+Sawyer,Hill,Male,36,Lower secondary,unemployed,Married,Instagram,1:13:26,214,TV/Entertainment
+Sophia,Wright,Female,50,Lower secondary,unemployed,Married,Youtube,9:57:10,62,Art
+Jared,Farrell,Male,25,Master,Student,Married,Youtube,7:29:29,117,TV/Entertainment
+Victor,Wells,Male,31,Upper secondary,Govt Employee,Single,Quora,10:09:42,192,Art
+William,Edwards,Male,28,Doctoral,Student,Single,Quora,12:49:40,67,Art
+Patrick,Jones,Male,43,Primary,Homemaker,Married,Primevideo,0:29:14,76,Style
+Antony,Perkins,Male,61,Master,unemployed,Married,Primevideo,15:57:52,103,Art
+Dominik,Carroll,Male,40,Lower secondary,Homemaker,Married,Primevideo,9:30:06,70,TV/Entertainment
+Agata,Williams,Female,70,Primary,Corporate,Married,Netflix,22:35:57,208,Art
+Richard,Casey,Male,69,Primary,Artist,Single,Netflix,11:43:48,229,Art
+Kellan,Brown,Male,39,Upper secondary,unemployed,Married,Primevideo,1:12:26,58,Style
+Kellan,Montgomery,Male,20,Upper secondary,Student,Married,Youtube,16:50:49,150,Food
+Ted,Perkins,Male,37,Doctoral,Artist,Married,Netflix,14:21:49,214,Art
+Valeria,Wells,Female,34,Master,Homemaker,Married,Instagram,12:41:19,230,Style
+Camila,Kelly,Female,32,Primary,Artist,Married,Youtube,8:30:43,99,Décor
+Annabella,Parker,Female,45,Lower secondary,Govt Employee,Single,Instagram,9:29:32,173,Style
+Vincent,Jones,Male,32,Upper secondary,unemployed,Single,Instagram,20:26:18,67,Style
+Aston,Brooks,Male,21,Bachelor,Student,Single,Instagram,1:02:40,172,TV/Entertainment
+Abigail,Ryan,Female,34,Bachelor,Artist,Single,Quora,22:46:33,76,TV/Entertainment
+Patrick,Evans,Male,58,Bachelor,Govt Employee,Married,Facebook,5:40:03,75,Food
+Penelope,Smith,Female,19,Upper secondary,Student,Single,Quora,0:57:55,180,TV/Entertainment
+Arianna,Sullivan,Female,53,Master,Artist,Single,Primevideo,10:46:52,195,TV/Entertainment
+George,Robinson,Male,43,Bachelor,Homemaker,Married,Netflix,23:53:40,288,Art
+Alissa,Ellis,Female,36,Master,unemployed,Married,Quora,5:51:54,248,Art
+Natalie,Myers,Female,28,Doctoral,Student,Married,Instagram,19:04:58,44,Art
+Lucy,Gray,Female,40,Master,Corporate,Single,Instagram,22:12:05,42,TV/Entertainment
+Clark,Robinson,Male,46,Primary,unemployed,Single,Netflix,9:07:08,53,Beauty
+Ryan,Taylor,Male,46,Lower secondary,Homemaker,Single,Instagram,20:59:37,236,Style
+Stella,Evans,Female,60,Doctoral,Corporate,Single,Netflix,2:04:11,75,Art
+Sophia,Riley,Female,50,Master,Artist,Married,Youtube,19:36:15,280,Food
+James,Owens,Male,31,Doctoral,Govt Employee,Single,Quora,6:45:47,156,TV/Entertainment
+Lucy,Payne,Female,44,Master,Govt Employee,Single,Youtube,13:09:30,180,Beauty
+Natalie,Farrell,Female,60,Master,unemployed,Single,Instagram,3:25:15,268,Style
+Byron,Foster,Male,60,Primary,Corporate,Married,Instagram,5:01:58,251,TV/Entertainment
+Catherine,Cameron,Female,60,Bachelor,Corporate,Single,Instagram,19:03:32,296,Style
+Miller,Barrett,Male,37,Primary,Govt Employee,Single,Instagram,17:17:58,156,TV/Entertainment
+Jared,Stewart,Male,27,Doctoral,Student,Married,Instagram,1:33:13,86,TV/Entertainment
+Jared,Stewart,Male,27,Doctoral,Student,Married,Instagram,1:33:13,133,TV/Entertainment
